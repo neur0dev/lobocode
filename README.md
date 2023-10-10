@@ -5,7 +5,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&labelColor=red&logo=youtube&logoColor=white&link=https://www.youtube.com/c/VitorLobo)](https://youtube.com/)
 
 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java and C
 - 💬 Ask me about anything
 - 📫 How to reach me: lobocode@fedoraproject.org
 - 😄 Pronouns: He/Him
